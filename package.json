@@ -1,6 +1,6 @@
 {
   "name": "noted",
-  "version": "0.0.1",
+  "version": "0.0.2" ,
   "description": "A notes application because it's 2018 and we're not doing todo lists anymore",
   "main": "src/application.js",
   "scripts": {
