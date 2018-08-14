@@ -1,7 +1,7 @@
 {
   "name": "noted",
   "version": "0.0.2" ,
-  "description": "A notes application because it's 2018 and we're not doing todo lists anymore",
+  "description": "A notes app because it's 2018 and we're not doing todo lists anymore",
   "main": "src/application.js",
   "scripts": {
     "start": "NODE_ENV=development webpack-dev-server --config ./config/webpack.config.development.js",
