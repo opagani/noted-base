@@ -9,7 +9,7 @@
     "test": "jest",
     "deploy": "yarn run build && aws s3 cp dist/ s3://oscarsuperfunwebsite.com --recursive"
   },
-  "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
+  "author": "Oscar Pagani",
   "license": "MIT",
   "private": true,
   "dependencies": {
